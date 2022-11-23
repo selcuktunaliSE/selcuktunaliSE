@@ -5,4 +5,4 @@ I love software development and I am always open to learn new technologies also 
 My skills are Java , Javascript , Phyton , MySQL , Html , Css and Bootstrap  . 
 I'm currently learning React and Nodejs .    
  
-I'm looking to collobrate on web development and software development .
+I'm looking to collaborate on web development and software development .
